@@ -10,6 +10,18 @@ An advanced precision agriculture telemetry dashboard designed for high-yield, b
 
 ---
 
+## Precision Breeding & Agronomic Protocols
+
+| 1. Flower Anatomy | 2. Emasculation Stage | 3. Pollen Harvesting |
+| :---: | :---: | :---: |
+| ![Flower Anatomy](public/hybridization/flower_anatomy.png) | ![Emasculation](public/hybridization/emasculation.png) | ![Pollen Collection](public/hybridization/pollen_collection.png) |
+
+| 4. Cross Pollination | 5. Germination Protocol | 6. F2 Segregation Analysis |
+| :---: | :---: | :---: |
+| ![Cross Pollination](public/hybridization/cross_pollination.png) | ![Seed Germination](public/hybridization/seed_germination.png) | ![F2 Segregation](public/hybridization/f2_segregation.png) |
+
+---
+
 ## Key Engineering Capabilities
 
 1. **Phase-Locked Field Calendar**:
